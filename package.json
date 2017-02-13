@@ -17,7 +17,6 @@
     "babel-preset-stage-3": "^6.22.0",
     "babel-register": "^6.22.0",
     "co": "^4.6.0",
-    "irc-connect": "^2.2.0",
     "mocha": "^3.2.0",
     "power-assert": "^1.4.2"
   }
